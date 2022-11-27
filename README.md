@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @plutowootoe
 - 👀 I’m interested in music
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on n/a
 - 📫 How to reach me adamgreenan30@gmail.com
 
